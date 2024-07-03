@@ -54,6 +54,26 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
+  void _deleteCurrency(String currency) {
+    setState(() {
+      currencies.remove(currency);
+      if (fromCurrency == currency) {
+        fromCurrency = currencies.isNotEmpty ? currencies.first : '';
+      }
+      if (toCurrency == currency) {
+        toCurrency = currencies.isNotEmpty ? currencies.first : '';
+      }
+      _getRate();
+    });
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text('$currency berhasil dihapus'),
+        duration: Duration(seconds: 2),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
