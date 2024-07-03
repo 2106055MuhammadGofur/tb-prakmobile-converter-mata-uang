@@ -10,18 +10,19 @@ Aplikasi Converter Mata Uang adalah aplikasi yang memanfaatkan layanan API (Appl
 
 hasil:
 
-<img width="212" alt="1" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/f4a33585-6c15-422e-bfd2-30e2d28926bc">
-<img width="211" alt="2" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/b6b51653-02b3-4f85-8657-e2bd90170d14">
-<img width="211" alt="3" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/e5292870-ad5c-4a60-9ba2-d0314b7add1a">
-<img width="211" alt="4" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/03fd25eb-9be0-4fc0-833f-13d78031d8ca">
-<img width="211" alt="5" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/a5544a9d-25b8-4b30-a70f-813ae35f643f">
+<img width="212" alt="1" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/e3b65c9e-7c68-45c7-ad3e-18bef9823599">
+<img width="211" alt="2" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/13153e0a-df8a-4044-b408-ea75d62e25d4">
+<img width="211" alt="3" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/1f6c1b7e-047f-4b99-a0fb-bc071800eafc">
+<img width="211" alt="4" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/ad60b078-d38d-4b9b-906d-38207cdb7dc6">
+<img width="211" alt="5" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/5ef0af7e-c523-4efd-8d53-c8e7c37dbefe">
 
 darkmode:
 
-<img width="211" alt="6" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/ebd70d51-265e-41ab-82ff-d238660489b7">
-<img width="211" alt="7" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/2e2e2110-e2fe-48f8-8b8a-b30b21578335">
-<img width="211" alt="8" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/6a8f2bda-0d95-4083-97bb-3fb8bff03447">
-<img width="211" alt="9" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/d3906209-66a4-4fb4-8f0b-b05fbab0b86d">
-<img width="209" alt="10" src="https://github.com/2106055MuhammadGofur/TB-PRAKTIKUM-MOBILE/assets/127308482/587cff29-459f-4d44-99c9-67b3a427c149">
+<img width="211" alt="6" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/abccd97d-06aa-49eb-9af0-c4ef8519f955">
+<img width="211" alt="7" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/c887501c-09ba-4687-9912-35d258c2edbc">
+<img width="211" alt="8" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/2b52913d-ff32-4084-ab27-ab78175c42ff">
+<img width="211" alt="9" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/5b5d1856-1cbc-4a1b-803b-c24cdbc1a3d0">
+<img width="209" alt="10" src="https://github.com/2106055MuhammadGofur/tb-prakmobile-converter-mata-uang/assets/127308482/49daae4f-ac6e-47d5-8253-7b771f2c6dfd">
+
 
 
