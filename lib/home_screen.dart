@@ -44,6 +44,16 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
+  Future<void> _getRate() async {
+    var response = await http.get(
+        Uri.parse('https://api.exchangerate-api.com/v4/latest/$fromCurrency'));
+
+    var data = jsonDecode(response.body);
+    setState(() {
+      rate = data['rates'][toCurrency];
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
