@@ -35,6 +35,15 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
+  void _swapCurrencies() {
+    setState(() {
+      String temp = fromCurrency;
+      fromCurrency = toCurrency;
+      toCurrency = temp;
+      _getRate();
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
